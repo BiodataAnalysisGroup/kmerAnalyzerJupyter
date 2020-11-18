@@ -7,9 +7,9 @@ Creating matrices consisting of 4 columns: Kmer, counts, godel numbers and entro
 
 ## Instructions
 - Install Jypyter Notebook (https://jupyter.org/install)
-- Run the first cell of .ipynb to install the required packages (biopython, numpy, pandas)
-- k-value is specified in the third cell
-- input is specified in the 11th cell
+- Run the first cell of .ipynb to install the required packages (pandas, numpy, nltk)
+- k-range is specified in the third cell
+- The input should be a single .fasta filed and placed inside 'input' directory. There is no need to specify input in the code
 - Run each cell separately
 - Good luck
 
